@@ -1,0 +1,25 @@
+.table-container {
+    width: 100%;
+    position: relative;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    position: relative;
+  }
+
+  .table thead {
+    width: 100%;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  

@@ -1,0 +1,23 @@
+.table-filter {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    z-index: 1;
+  }
+
+  .filter-header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+   .filter-content {
+    padding: 20px;
+  }
+
+  .filter-header a  {
+    cursor: pointer;
+  }
+
+  .filter-header a.active {
+    color:#5497d9
+  }
